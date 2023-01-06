@@ -2,7 +2,7 @@ server:
   port: 8084
 spring:
   datasource:
-    url: jdbc:sqlserver://localhost:1433;database=sujan_test;encrypt=true;trustServerCertificate=true;
+    url: jdbc:sqlserver://localhost:1433;database=project;encrypt=true;trustServerCertificate=true;
     username: sa
     password: root
   jpa:
